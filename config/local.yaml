@@ -1,0 +1,13 @@
+env: "dev"
+db:
+  host: "localhost"
+  port: 5432
+  database: "students_api"
+  user: "postgres"
+  password: "admin"
+  
+http_server:
+  host: "localhost"
+  port: 3000
+  
+storage_path: "./storage"

@@ -1,3 +1,3 @@
-module github.com/coderemon24/student-api
+module github.com/coderemon24/students-api
 
 go 1.24.0
